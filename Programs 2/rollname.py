@@ -1,0 +1,16 @@
+import pickle
+n=input("Enter name")
+r=int(input("enter roll number"))
+m=int(input("enter marks"))
+l=list()
+l.append(n)
+l.append(r)
+l.append(m)
+a=open('mnb.dat','wb')
+k=pickle.dump(l,a)
+a.close()
+y=open("mnb.dat","rb")
+j=pickle.load(y)
+y.close()
+print(j)
+       
