@@ -7,7 +7,7 @@ g=[]
 print('                                                                                                                                   ')
 print('                                                                                         ')
 print('                                                                                               ')
-print('                                                             Epicos theatre movie reservation site                                                                       ')
+print('                                                             RONI theatre movie reservation site                                                                       ')
 print('                                                             -------------------------------------                                                                       ')
 print('                                                                            @   @                                                                                        ')
 print('                                                                            *****                                                                                        ')
